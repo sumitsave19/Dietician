@@ -1,0 +1,68 @@
+/* Navbar Start */
+* {
+    font-family: serif;
+}
+.navbar-logo {
+    overflow: hidden;
+    width: 75px;
+    height: 75px;
+    border-radius: 30px;
+}
+.navbar-logo img {
+    max-width: 100%;
+    height: auto;
+}
+.navbar-title {
+    padding-left: 20px;
+    font-size: 35px;
+}
+.nav-link {
+    font-size: 20px;
+    font-weight: bold;
+}
+/* Navbar End */
+
+/* Banner 1 Start */
+.banner1-background {
+    height: 80vh;
+    background: url('../Images/Background.jpeg') center no-repeat;
+    background-size: 100% 100%;
+}
+.banner1-text {
+    padding-top: 70px;
+}
+/* Banner 1 End */
+/* Services Start */
+.headings {
+    width: 300px;
+    border: 3px solid #28a745;
+    margin: 100px auto;
+    font-size: 50px;
+    color:#28a745;
+    text-align: center;
+    border-radius: 30px;
+}
+.headings:hover {
+    color: white;
+    background-color: #28a745;
+}
+.services-box {
+    margin: 100px 0px;
+    text-align: center;
+    box-shadow: 2px 2px 20px #28a745;
+    margin: 5px;
+}
+.services-box img {
+    padding-top: 50px;
+    width: 100px;
+    height: 100px;
+}
+.services-text {
+    color: #000;
+    padding: 10px;
+}
+.services-box:hover {
+    opacity: 0.5;
+}
+/* Services End */
+
